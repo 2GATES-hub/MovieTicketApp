@@ -1,0 +1,14 @@
+*.iml
+.gradle
+/local.properties
+/.idea
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+
+# QUAN TRỌNG: KHÔNG đẩy file này lên GitHub vì chứa API key!
+# Mỗi người clone repo cần tự tạo Firebase project và download google-services.json
+app/google-services.json
