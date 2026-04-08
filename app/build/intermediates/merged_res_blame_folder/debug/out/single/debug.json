@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "com.example.movieticket.app-merged_res-6:/drawable_ic_movie_placeholder.xml.flat",
+        "source": "com.example.movieticket.app-main-8:/drawable/ic_movie_placeholder.xml"
+    },
+    {
+        "merged": "com.example.movieticket.app-merged_res-6:/layout_activity_login.xml.flat",
+        "source": "com.example.movieticket.app-main-8:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.example.movieticket.app-merged_res-6:/layout_item_movie.xml.flat",
+        "source": "com.example.movieticket.app-main-8:/layout/item_movie.xml"
+    },
+    {
+        "merged": "com.example.movieticket.app-merged_res-6:/layout_activity_my_tickets.xml.flat",
+        "source": "com.example.movieticket.app-main-8:/layout/activity_my_tickets.xml"
+    },
+    {
+        "merged": "com.example.movieticket.app-merged_res-6:/layout_activity_register.xml.flat",
+        "source": "com.example.movieticket.app-main-8:/layout/activity_register.xml"
+    },
+    {
+        "merged": "com.example.movieticket.app-merged_res-6:/layout_activity_movie_detail.xml.flat",
+        "source": "com.example.movieticket.app-main-8:/layout/activity_movie_detail.xml"
+    },
+    {
+        "merged": "com.example.movieticket.app-merged_res-6:/drawable_ic_notification.xml.flat",
+        "source": "com.example.movieticket.app-main-8:/drawable/ic_notification.xml"
+    },
+    {
+        "merged": "com.example.movieticket.app-merged_res-6:/layout_item_ticket.xml.flat",
+        "source": "com.example.movieticket.app-main-8:/layout/item_ticket.xml"
+    },
+    {
+        "merged": "com.example.movieticket.app-merged_res-6:/layout_activity_booking.xml.flat",
+        "source": "com.example.movieticket.app-main-8:/layout/activity_booking.xml"
+    },
+    {
+        "merged": "com.example.movieticket.app-merged_res-6:/layout_activity_main.xml.flat",
+        "source": "com.example.movieticket.app-main-8:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.movieticket.app-merged_res-6:/menu_main_menu.xml.flat",
+        "source": "com.example.movieticket.app-main-8:/menu/main_menu.xml"
+    }
+]
